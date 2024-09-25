@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "main",
+            "database": "${workspaceFolder:crisp}/database.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
